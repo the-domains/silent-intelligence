@@ -6,9 +6,10 @@ color:
   saturation: 0.8960135031957179
   rhythmicContrast: 0.20794194657355547
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: 'silent intelligence '
+title: Technology
